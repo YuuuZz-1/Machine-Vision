@@ -1,0 +1,24 @@
+# Visual Studio local settings
+.vs/
+*.user
+*.suo
+
+# Build outputs and intermediate files
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.tlog/
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
+*.VC.db
+*.VC.opendb
